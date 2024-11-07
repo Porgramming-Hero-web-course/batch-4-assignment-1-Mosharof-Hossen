@@ -9,5 +9,6 @@ function updateProfile(info: Profile, updateInfo: { [T in keyof Profile]?: Profi
 }
 
 
+
 // const myProfile = { name: "Alice", age: 25, email: "alice@example.com" };
 // console.log(updateProfile(myProfile, {name: "xx", age: 11}));

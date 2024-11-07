@@ -8,5 +8,6 @@ function validateKeys<T>(obj: T, keys: (keyof T)[]): boolean {
     return true;
 }
 
+
 // const person = { name: "Alice", age: 25, email: "alice@example.com" };
 // console.log(validateKeys(person, ["email","namde", "age",]));

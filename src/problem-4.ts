@@ -19,6 +19,7 @@ function calculateShapeArea(info: CircleOrRectangle): number {
     }
 }
 
+
 // console.log(calculateShapeArea({ shape: "circle", radius: 5 }));
 // console.log(calculateShapeArea({
 //     shape: "rectangle",

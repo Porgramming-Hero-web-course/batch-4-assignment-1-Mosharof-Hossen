@@ -3,4 +3,5 @@ function removeDuplicates(elements: number[]): number[] {
     return [...uniqueNumbers] //spread operator
 }
 
+
 // console.log(removeDuplicates([1, 2,25, 2, 3, 4, 4, 5]));
