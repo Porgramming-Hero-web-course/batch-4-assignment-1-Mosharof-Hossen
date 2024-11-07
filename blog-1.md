@@ -1,4 +1,4 @@
-# Union Type to Intersection Type in TypeScript
+# Union Type And Intersection Type in TypeScript
 
 Union and Intersection types are two important concepts in TypeScript, used to create relationships between types. Which helps to make the typing system in our code more flexible and clear.
 
